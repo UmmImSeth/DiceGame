@@ -1,2 +1,2 @@
 # DiceGame
-Roll 5 dice and keeps score
+Roll 5 dice and keep theirscore
